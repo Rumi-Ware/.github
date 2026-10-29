@@ -72,9 +72,8 @@
 
 Have a project in mind? Let's build it together.
 
-- 🌐 Website: [YOUR-WEBSITE-HERE.com](https://YOUR-WEBSITE-HERE.com)
-- 📧 Email: `your-email@example.com`
-- 💼 LinkedIn: `your-linkedin-link`
+- 🌐 Website: [rumiware.com](https://rumiware.com)
+- 💼 LinkedIn: `https://www.linkedin.com/company/rumiware/`
 
 ## 🌟 Support Us
 
